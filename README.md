@@ -4,7 +4,7 @@
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCarvalhoFilho&show_icons=true&theme=dracula)
 
-## Technologies I use in my day
+## Technologies already used
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="JAVA"/>
   <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
